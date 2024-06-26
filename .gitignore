@@ -1,0 +1,10 @@
+# .gitignore
+*.log
+*.zip
+*.tar.gz
+*.rar
+*.tmp
+__pycache__/
+.env
+venv/
+node_modules/
